@@ -1,8 +1,8 @@
 # 👋🏽 Hey, I'm Mukhtar Abdulquadri
 
-### 🛡️ Cybersecurity Professional • Ethical Hacker • Network Security • Bug Bounty
+### 🛡️ Cybersecurity Professional • Ethical Hacker • Network Engineer
 
-I’m a cybersecurity professional passionate about **understanding how systems work, finding vulnerabilities, and helping make them more secure**.
+I’m a network engineer and a cybersecurity professional passionate about **understanding how systems work, finding vulnerabilities, and helping make them more secure**.
 
 My focus is on **cybersecurity, ethical hacking, network security, and offensive security** —with a strong emphasis on practical learning and hands-on experience.
 
